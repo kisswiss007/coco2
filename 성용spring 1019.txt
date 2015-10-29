@@ -1,0 +1,15 @@
+springframework 주소 : 
+http://maven.springframework.org/release/org/springframework/spring/
+
+오픈소스 검색 사이트
+http://mvnrepository.com/
+1. commons logging (Apache Commons Logging)
+	http://mvnrepository.com/artifact/commons-logging/commons-logging/1.2
+ DI 개념 설명 3가지 방법, xml, annotation, java
+
+2. AOP
+ http://mvnrepository.com/	
+ aopalliance, aspectjtools , cglib-nodep
+
+3. MVC
+apach 설치 후 프로젝트 (Spring MVC)
